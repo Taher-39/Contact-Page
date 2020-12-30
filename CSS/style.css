@@ -1,0 +1,145 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #3d7ea6;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.header li{
+	list-style: none;
+	display: inline-block;
+}
+.header li a{
+	color: #ffffff;
+	margin: 18px;
+	font-size: 25px;
+	text-decoration: none;
+}
+.header li a:hover{
+	color: #ffa5a5;
+}
+.NewsLatter{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+.container-1{
+	width: 1000px;
+    margin: auto;
+}
+.NewsLatter h1{
+	color: #2f323a;
+	font-weight: 600;
+	font-size: 42px;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.NewsLatter p{
+	font-size: 15px;
+    margin-bottom: 40px;
+    color: #6F6F6F;;
+    font-family: 'Poppins', sans-serif;
+} 
+.NewsLatter .input1{
+	width: 30%;
+	height: 40px;
+	padding-left: 10px;
+}
+.NewsLatter .input2{
+	width: 30%;
+	height: 40px;
+	padding-left: 10px;
+}
+.NewsLatter .input3{
+	background-color: black;
+	color: #ffffff;
+	width: 10%;
+	height: 44px;
+	outline: none;
+	border: 1px solid #f5f5f5;
+}
+.NewsLatter .input3:hover{
+	background-color: #3d7ea6;
+	color: black;
+	cursor: pointer;
+}
+
+.AgainNewsLetter{
+	text-align: center;
+	background-color: #f5f5f5;
+}
+.Container-2{
+	width: 1140px;
+	margin: auto;
+}
+.AgainNewsLetter h1{
+	color: #2f323a;
+	font-weight: 600;
+	font-size: 35px;
+	margin-top: 70px;
+    margin-bottom: 30px;
+    padding-top: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+.AgainNewsLetter p{
+	font-size: 100%;
+    margin-bottom: 40px;
+    color: #6F6F6F;;
+    font-family: 'Poppins', sans-serif;	
+}
+.AgainNewsLetter .input4{
+	height: 40px;
+	width: 35%;
+	padding-left: 10px;
+	margin-bottom: 13px;
+}
+.AgainNewsLetter .input5{
+	height: 40px;
+	width: 35%;
+	padding-left: 10px;
+	margin-bottom: 13px;
+	margin-left: 10px;
+}
+.AgainNewsLetter .input6{
+	height: 40px;
+	width: 35%;
+	padding-left: 10px;
+	margin-bottom: 13px;
+}
+.AgainNewsLetter .input7{
+	height: 40px;
+	width: 35%;
+	padding-left: 10px;
+	margin-bottom: 13px;
+	margin-left: 10px;
+}
+.AgainNewsLetter .msg{
+	width: 830px;
+	height: 250px;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.SendMsg{
+	background-color: #f5f5f5;
+}
+.input8{
+	margin-top: 10px;
+	margin-left: 252px;
+	margin-bottom: 100px;
+	width: 12%;
+	height: 42px;
+	background-color: black;
+	color: white;
+	outline: none;
+	border: 1px solid #f5f5f5;
+
+
+}
+.input8:hover{
+	background-color: #3d7ea6;
+	color: black;
+	cursor: pointer;
+}
